@@ -1,3 +1,11 @@
+
+body{
+    margin-left: 6%;
+}
+
+
+
+
 .mercy{
     border:10px solid #c4c4c4 ;
     padding : 10px ;
@@ -5,4 +13,13 @@
     text-align:center;
     font-size: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.dep{
+    display: block;
+
+}
+.dep img {
+    padding-left: 37%;
+    padding-top:30px;
+
 }
